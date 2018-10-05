@@ -1,0 +1,12 @@
+{
+    "languages": [
+        {
+            "from": "fr",
+            "to": "en"
+        },
+        {
+            "from": "en",
+            "to": "vi"
+        }
+    ]
+}
